@@ -1,0 +1,11 @@
+body{font-family:system-ui,Arial;background:#071018;color:#e6f3ee;margin:16px}
+.wrap{max-width:960px;margin:auto}
+.card{background:#0b1a1a;padding:16px;border-radius:10px;margin-bottom:12px}
+button{font:inherit;padding:8px;border-radius:8px;border:1px solid rgba(255,255,255,0.04);background:transparent;color:inherit;cursor:pointer}
+.muted{color:#9fb3ae;font-size:0.95rem}
+.repo{padding:10px;border-radius:8px;background:rgba(255,255,255,0.02);margin-bottom:8px;display:flex;justify-content:space-between;align-items:center}
+.badge{padding:4px 8px;border-radius:999px;font-weight:700}
+.private{background:#7b2b2b;color:white}
+.public{background:#1b6f3b;color:white}
+a.link{color:#18a166;text-decoration:none}
+pre{white-space:pre-wrap;background:rgba(255,255,255,0.02);padding:8px;border-radius:8px}
